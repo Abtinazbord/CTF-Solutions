@@ -13,7 +13,7 @@ This challenge involved connecting to a remote server at a specific IP address a
    - For each number I sent, the server would respond with the character at that index of the flag.
 
 2. **Script Writing:**
-   - I wrote a **bash script** to automate the process of sending numbers from `0` to `15` (or more depending on the number of characters).
+   - I wrote a **bash script** to automate the process of sending numbers from `0`.
    - The script loops through the numbers and collects each corresponding character from the server’s response.
 
 3. **Flag Construction:**
