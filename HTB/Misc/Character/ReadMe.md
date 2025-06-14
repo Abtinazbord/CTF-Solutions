@@ -27,7 +27,7 @@ This challenge involved connecting to a remote server at a specific IP address a
 ### Tools Used:
 - **Netcat (nc)**: To communicate with the server.
 - **Bash scripting**: To automate the process and loop through the indices.
-- **`sed` **: To extract the relevant part of the server’s response.
+- **`sed`: To extract the relevant part of the server’s response.
 
 ### Full Solution Script:
 The complete solution is in the `flag_extraction.sh` file. To run the script:
