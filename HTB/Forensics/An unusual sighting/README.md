@@ -78,4 +78,4 @@ Continuing in the same session:
 
 
 ## Final Flag
-**Flag:** `<details> <summary>Click to reveal the flag </summary> HTB{4n_unusual_s1ght1ng_1n_SSH_l0gs!} </details>
+**Flag:** <details> <summary>Click to reveal the flag </summary> HTB{4n_unusual_s1ght1ng_1n_SSH_l0gs!} </details>
