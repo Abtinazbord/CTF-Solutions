@@ -1,8 +1,5 @@
 # HTB Challenge: An Unusual Sighting
-
-**Category:** Forensics / Log Analysis  
-**Difficulty:** Easy–Medium  
-**Author:** Walkthrough by [YourName]  
+ 
 **Files Provided:** `sshd.log`, `bash_history.txt`  
 **Flag:** `<details> <summary>Click to reveal the flag </summary> HTB{4n_unusual_s1ght1ng_1n_SSH_l0gs!} </details>
 
