@@ -34,7 +34,7 @@ This extracts the embedded file systems into:
 
 ---
 
-## 📦 Step 2: Identify OpenWRT Version
+## Step 2: Identify OpenWRT Version
 
 ```bash
 cd squashfs-root/etc
