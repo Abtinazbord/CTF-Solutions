@@ -1,4 +1,4 @@
-# CTF-Solutions
+# CTF-Writeups
 
 Welcome to my collection of solutions for **Capture The Flag (CTF)** challenges! 
 
